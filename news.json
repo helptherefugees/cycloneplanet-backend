@@ -2,19 +2,23 @@
   "lastUpdated": "2026-09-14",
   "featured": [
     {
+      "title": "Back-to-back Arctic storms can double sea ice loss",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm"
+    },
+    {
       "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm"
     },
     {
       "title": "Oceans are supercharging hurricanes past Category 5",
       "link": "https://www.sciencedaily.com/releases/2025/12/251225080725.htm"
-    },
-    {
-      "title": "Solar Superstorm Gannon crushed Earth’s plasmasphere to a record low",
-      "link": "https://www.sciencedaily.com/releases/2025/11/251122234723.htm"
     }
   ],
   "articles": [
+    {
+      "title": "Solar Superstorm Gannon crushed Earth’s plasmasphere to a record low",
+      "link": "https://www.sciencedaily.com/releases/2025/11/251122234723.htm"
+    },
     {
       "title": "Rainforest deaths are surging and scientists just found the shocking cause",
       "link": "https://www.sciencedaily.com/releases/2025/07/250703092609.htm"
@@ -38,10 +42,6 @@
     {
       "title": "Breakthrough AI model could transform how we prepare for natural disasters",
       "link": "https://www.sciencedaily.com/releases/2025/05/250522124851.htm"
-    },
-    {
-      "title": "AI is good at weather forecasting. Can it predict freak weather events?",
-      "link": "https://www.sciencedaily.com/releases/2025/05/250522124738.htm"
     }
   ]
 }
