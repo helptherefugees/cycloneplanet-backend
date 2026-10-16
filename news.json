@@ -2,19 +2,23 @@
   "lastUpdated": "2026-10-16",
   "featured": [
     {
+      "title": "NASA captures strange waves high above Hurricane Simon",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm"
+    },
+    {
       "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
     },
     {
       "title": "Back-to-back Arctic storms can double sea ice loss",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm"
-    },
-    {
-      "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm"
     }
   ],
   "articles": [
+    {
+      "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm"
+    },
     {
       "title": "Oceans are supercharging hurricanes past Category 5",
       "link": "https://www.sciencedaily.com/releases/2025/12/251225080725.htm"
@@ -38,10 +42,6 @@
     {
       "title": "2021&#039;s Hurricane Ida could have been even worse for NYC",
       "link": "https://www.sciencedaily.com/releases/2025/05/250529155413.htm"
-    },
-    {
-      "title": "When the sea moves inland: A global climate wake-up call from Bangladesh&#039;s Delta",
-      "link": "https://www.sciencedaily.com/releases/2025/05/250523120445.htm"
     }
   ]
 }
