@@ -2,19 +2,23 @@
   "lastUpdated": "2026-10-20",
   "featured": [
     {
+      "title": "Hurricane warning maps are improving, but a dangerous problem remains",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm"
+    },
+    {
       "title": "NASA captures strange waves high above Hurricane Simon",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm"
     },
     {
       "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
-    },
-    {
-      "title": "Back-to-back Arctic storms can double sea ice loss",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm"
     }
   ],
   "articles": [
+    {
+      "title": "Back-to-back Arctic storms can double sea ice loss",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm"
+    },
     {
       "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm"
@@ -38,10 +42,6 @@
     {
       "title": "Researchers use deep learning to predict flooding this hurricane season",
       "link": "https://www.sciencedaily.com/releases/2025/06/250602154901.htm"
-    },
-    {
-      "title": "2021&#039;s Hurricane Ida could have been even worse for NYC",
-      "link": "https://www.sciencedaily.com/releases/2025/05/250529155413.htm"
     }
   ]
 }
