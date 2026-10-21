@@ -2,19 +2,23 @@
   "lastUpdated": "2026-10-21",
   "featured": [
     {
+      "title": "A train was delayed by a solar storm. But something didn&#039;t add up.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
+    },
+    {
       "title": "Hurricane warning maps are improving, but a dangerous problem remains",
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm"
     },
     {
       "title": "NASA captures strange waves high above Hurricane Simon",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm"
-    },
-    {
-      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
     }
   ],
   "articles": [
+    {
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
+    },
     {
       "title": "Back-to-back Arctic storms can double sea ice loss",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm"
@@ -38,10 +42,6 @@
     {
       "title": "New Orleans is sinking—and so are its $15 billion flood defenses",
       "link": "https://www.sciencedaily.com/releases/2025/06/250627234122.htm"
-    },
-    {
-      "title": "Researchers use deep learning to predict flooding this hurricane season",
-      "link": "https://www.sciencedaily.com/releases/2025/06/250602154901.htm"
     }
   ]
 }
