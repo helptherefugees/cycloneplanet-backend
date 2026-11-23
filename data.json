@@ -1,12 +1,4 @@
 {
-  "lastUpdated": "2026-11-23T09:56:25.646Z",
-  "storms": [
-    {
-      "name": "XAVIER",
-      "code": "04P",
-      "lat": -11.8,
-      "lon": -168.8,
-      "wind": 0
-    }
-  ]
+  "lastUpdated": "2026-11-23T21:49:38.267Z",
+  "storms": []
 }
